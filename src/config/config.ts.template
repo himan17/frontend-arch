@@ -1,0 +1,4 @@
+export const config = {
+  backend_url: "backend api url",
+  support_url: "a telegram url",
+};
